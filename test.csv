@@ -1,0 +1,300 @@
+country,year,PEC,iso_alpha
+Afghanistan,1980,7.773,AFG
+Afghanistan,1981,8.732,AFG
+Afghanistan,1982,9.135,AFG
+Afghanistan,1983,11.006,AFG
+Afghanistan,1984,11.056,AFG
+Afghanistan,1985,11.043,AFG
+Afghanistan,1986,11.325,AFG
+Afghanistan,1987,18.348,AFG
+Afghanistan,1988,32.497,AFG
+Afghanistan,1989,31.928,AFG
+Afghanistan,1990,31.627,AFG
+Afghanistan,1991,13.651,AFG
+Afghanistan,1992,8.961,AFG
+Afghanistan,1993,8.935,AFG
+Afghanistan,1994,8.617,AFG
+Afghanistan,1995,7.246,AFG
+Afghanistan,1996,7.119,AFG
+Afghanistan,1997,6.799,AFG
+Afghanistan,1998,6.618,AFG
+Afghanistan,1999,6.612,AFG
+Afghanistan,2000,5.777,AFG
+Afghanistan,2001,4.481,AFG
+Afghanistan,2002,4.262,AFG
+Afghanistan,2003,5.041,AFG
+Afghanistan,2004,4.669,AFG
+Afghanistan,2005,6.009,AFG
+Afghanistan,2006,7.286,AFG
+Afghanistan,2007,9.407,AFG
+Afghanistan,2008,16.397,AFG
+Afghanistan,2009,26.808,AFG
+Afghanistan,2010,33.194,AFG
+Afghanistan,2011,44.997,AFG
+Afghanistan,2012,40.273,AFG
+Afghanistan,2013,32.809,AFG
+Afghanistan,2014,29.678,AFG
+Afghanistan,2015,32.917,AFG
+Afghanistan,2016,35.737,AFG
+Albania,1980,52.569,ALB
+Albania,1981,52.85,ALB
+Albania,1982,53.742,ALB
+Albania,1983,55.81,ALB
+Albania,1984,57.064,ALB
+Albania,1985,57.267,ALB
+Albania,1986,56.402,ALB
+Albania,1987,56.775,ALB
+Albania,1988,57.442,ALB
+Albania,1989,54.811,ALB
+Albania,1990,40.289,ALB
+Albania,1991,32.27,ALB
+Albania,1992,25.537,ALB
+Albania,1993,21.771,ALB
+Albania,1994,20.456,ALB
+Albania,1995,21.98,ALB
+Albania,1996,24.616,ALB
+Albania,1997,22.247,ALB
+Albania,1998,23.725,ALB
+Albania,1999,21.708,ALB
+Albania,2000,27.313,ALB
+Albania,2001,25.18,ALB
+Albania,2002,27.144,ALB
+Albania,2003,32.027,ALB
+Albania,2004,34.837,ALB
+Albania,2005,34.45,ALB
+Albania,2006,32.07,ALB
+Albania,2007,25.174,ALB
+Albania,2008,28.165,ALB
+Albania,2009,32.405,ALB
+Albania,2010,38.863,ALB
+Albania,2011,28.64,ALB
+Albania,2012,29.163,ALB
+Albania,2013,37.024,ALB
+Albania,2014,31.828,ALB
+Albania,2015,33.685,ALB
+Albania,2016,39.446,ALB
+Algeria,1980,177.097,DZA
+Algeria,1981,215.121,DZA
+Algeria,1982,248.026,DZA
+Algeria,1983,270.925,DZA
+Algeria,1984,260.115,DZA
+Algeria,1985,262.181,DZA
+Algeria,1986,277.446,DZA
+Algeria,1987,285.079,DZA
+Algeria,1988,305.389,DZA
+Algeria,1989,297.028,DZA
+Algeria,1990,314.95,DZA
+Algeria,1991,312.043,DZA
+Algeria,1992,320.191,DZA
+Algeria,1993,297.932,DZA
+Algeria,1994,301.892,DZA
+Algeria,1995,313.11,DZA
+Algeria,1996,309.901,DZA
+Algeria,1997,297.847,DZA
+Algeria,1998,308.311,DZA
+Algeria,1999,311.398,DZA
+Algeria,2000,299.936,DZA
+Algeria,2001,310.801,DZA
+Algeria,2002,321.941,DZA
+Algeria,2003,336.876,DZA
+Algeria,2004,349.734,DZA
+Algeria,2005,366.175,DZA
+Algeria,2006,379.183,DZA
+Algeria,2007,399.601,DZA
+Algeria,2008,423.509,DZA
+Algeria,2009,448.802,DZA
+Algeria,2010,437.402,DZA
+Algeria,2011,464.422,DZA
+Algeria,2012,507.603,DZA
+Algeria,2013,536.956,DZA
+Algeria,2014,585.572,DZA
+Algeria,2015,617.482,DZA
+Algeria,2016,616.819,DZA
+American Samoa,1980,1.76,ASM
+American Samoa,1981,2.053,ASM
+American Samoa,1982,2.933,ASM
+American Samoa,1983,1.76,ASM
+American Samoa,1984,2.053,ASM
+American Samoa,1985,2.053,ASM
+American Samoa,1986,1.97,ASM
+American Samoa,1987,2.045,ASM
+American Samoa,1988,1.988,ASM
+American Samoa,1989,2.29,ASM
+American Samoa,1990,2.408,ASM
+American Samoa,1991,2.408,ASM
+American Samoa,1992,2.477,ASM
+American Samoa,1993,2.41,ASM
+American Samoa,1994,2.348,ASM
+American Samoa,1995,2.285,ASM
+American Samoa,1996,2.291,ASM
+American Samoa,1997,2.348,ASM
+American Samoa,1998,2.348,ASM
+American Samoa,1999,2.348,ASM
+American Samoa,2000,2.299,ASM
+American Samoa,2001,2.299,ASM
+American Samoa,2002,2.337,ASM
+American Samoa,2003,2.337,ASM
+American Samoa,2004,2.337,ASM
+American Samoa,2005,2.483,ASM
+American Samoa,2006,2.525,ASM
+American Samoa,2007,2.525,ASM
+American Samoa,2008,2.532,ASM
+American Samoa,2009,2.525,ASM
+American Samoa,2010,2.525,ASM
+American Samoa,2011,1.441,ASM
+American Samoa,2012,1.445,ASM
+American Samoa,2013,1.441,ASM
+American Samoa,2014,1.441,ASM
+American Samoa,2015,1.441,ASM
+American Samoa,2016,1.464,ASM
+Aruba,1986,0.426,ABW
+Aruba,1987,0.426,ABW
+Aruba,1988,1.634,ABW
+Aruba,1989,2.172,ABW
+Aruba,1990,2.294,ABW
+Aruba,1991,2.502,ABW
+Aruba,1992,2.749,ABW
+Aruba,1993,2.793,ABW
+Aruba,1994,3.064,ABW
+Aruba,1995,3.468,ABW
+Aruba,1996,2.286,ABW
+Aruba,1997,3.697,ABW
+Aruba,1998,3.697,ABW
+Aruba,1999,3.697,ABW
+Aruba,2000,4.421,ABW
+Aruba,2001,4.575,ABW
+Aruba,2002,4.729,ABW
+Aruba,2003,5.266,ABW
+Aruba,2004,5.492,ABW
+Aruba,2005,5.931,ABW
+Aruba,2006,5.919,ABW
+Aruba,2007,6.1,ABW
+Aruba,2008,5.73,ABW
+Aruba,2009,5.712,ABW
+Aruba,2010,5.362,ABW
+Aruba,2011,5.417,ABW
+Aruba,2012,5.357,ABW
+Aruba,2013,5.185,ABW
+Aruba,2014,5.264,ABW
+Aruba,2015,5.426,ABW
+Aruba,2016,5.418,ABW
+Asia Pacific,1965,5172.048,
+Asia Pacific,1966,5636.846,
+Asia Pacific,1967,5903.615,
+Asia Pacific,1968,6362.499,
+Asia Pacific,1969,7230.522,
+Asia Pacific,1970,8231.978,
+Asia Pacific,1971,9015.817,
+Asia Pacific,1972,9549.441,
+Asia Pacific,1973,10315.012,
+Asia Pacific,1974,10536.698,
+Asia Pacific,1975,10940.322,
+Asia Pacific,1976,11468.203,
+Asia Pacific,1977,12135.076,
+Asia Pacific,1978,12961.208,
+Asia Pacific,1979,13564.972,
+Asia Pacific,1980,13683.237,
+Asia Pacific,1981,13778.693,
+Asia Pacific,1982,13885.389,
+Asia Pacific,1983,14531.618,
+Asia Pacific,1984,15553.249,
+Asia Pacific,1985,16343.51,
+Asia Pacific,1986,17048.263,
+Asia Pacific,1987,18008.776,
+Asia Pacific,1988,19321.87,
+Asia Pacific,1989,20355.062,
+Asia Pacific,1990,21174.186,
+Asia Pacific,1991,22150.684,
+Asia Pacific,1992,23173.564,
+Asia Pacific,1993,24400.224,
+Asia Pacific,1994,25746.905,
+Asia Pacific,1995,26945.94,
+Asia Pacific,1996,28197.389,
+Asia Pacific,1997,29062.364,
+Asia Pacific,1998,28996.145,
+Asia Pacific,1999,30166.16,
+Asia Pacific,2000,31264.068,
+Asia Pacific,2001,32272.889,
+Asia Pacific,2002,33920.017,
+Asia Pacific,2003,36742.332,
+Asia Pacific,2004,40287.652,
+Asia Pacific,2005,43473.652,
+Asia Pacific,2006,46040.34,
+Asia Pacific,2007,48911.285,
+Asia Pacific,2008,50243.522,
+Asia Pacific,2009,51385.839,
+Asia Pacific,2010,54667.833,
+Asia Pacific,2011,57592.711,
+Asia Pacific,2012,59448.712,
+Asia Pacific,2013,61277.565,
+Asia Pacific,2014,62542.96,
+Asia Pacific,2015,63507.114,
+Asia Pacific,2016,64758.213,
+Asia Pacific,2017,66685.026,
+Asia Pacific,2018,69264.38,
+Asia Pacific,2019,71544.479,
+Australia,1965,405.358,AUS
+Australia,1966,444.668,AUS
+Australia,1967,471.61,AUS
+Australia,1968,500.152,AUS
+Australia,1969,520.756,AUS
+Australia,1970,568.171,AUS
+Australia,1971,596.637,AUS
+Australia,1972,623.909,AUS
+Australia,1973,667.015,AUS
+Australia,1974,709.237,AUS
+Australia,1975,721.03,AUS
+Australia,1976,746.352,AUS
+Australia,1977,783.364,AUS
+Australia,1978,802.791,AUS
+Australia,1979,834.459,AUS
+Australia,1980,840.092,AUS
+Australia,1981,847.067,AUS
+Australia,1982,846.545,AUS
+Australia,1983,848.329,AUS
+Australia,1984,885.373,AUS
+Australia,1985,892.155,AUS
+Australia,1986,922.338,AUS
+Australia,1987,946.983,AUS
+Australia,1988,991.034,AUS
+Australia,1989,1038.853,AUS
+Australia,1990,1057.157,AUS
+Australia,1991,1050.408,AUS
+Australia,1992,1061.06,AUS
+Australia,1993,1091.296,AUS
+Australia,1994,1134.833,AUS
+Australia,1995,1164.936,AUS
+Australia,1996,1194.316,AUS
+Australia,1997,1224.487,AUS
+Australia,1998,1253.046,AUS
+Australia,1999,1307.866,AUS
+Australia,2000,1313.507,AUS
+Australia,2001,1325.592,AUS
+Australia,2002,1345.272,AUS
+Australia,2003,1365.545,AUS
+Australia,2004,1410.881,AUS
+Australia,2005,1405.447,AUS
+Australia,2006,1490.384,AUS
+Australia,2007,1509.378,AUS
+Australia,2008,1534.266,AUS
+Australia,2009,1521.302,AUS
+Australia,2010,1527.103,AUS
+Australia,2011,1582.242,AUS
+Australia,2012,1562.975,AUS
+Australia,2013,1574.716,AUS
+Australia,2014,1597.398,AUS
+Australia,2015,1621.386,AUS
+Australia,2016,1634.105,AUS
+Australia,2017,1630.82,AUS
+Australia,2018,1665.527,AUS
+Australia,2019,1780.442,AUS
+Austria,1965,186.616,AUT
+Austria,1966,195.219,AUT
+Austria,1967,197.192,AUT
+Austria,1968,210.983,AUT
+Austria,1969,218.931,AUT
+Austria,1970,250.334,AUT
+Austria,1971,250.07,AUT
+Austria,1972,258.728,AUT
+Austria,1973,278.068,AUT
+Austria,1974,278.892,AUT
