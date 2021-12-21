@@ -1,6 +1,7 @@
 # midterm-project-2021
 
 INTRO TO CS MIDTERM PROJECT: ANIMATED CHOROPLETH MAP
+
 by: yi-an liao
 due date: january 3, 2022
 
