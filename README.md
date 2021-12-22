@@ -6,7 +6,13 @@ by: yi-an liao
 
 due date: january 3, 2022
 
-data cleaning process:
+*files included:*
+- energy-cons-cleaned.csv (cleaned data for global energy consumption)
+- energy-cons.csv (original data for global energy consumption; not cleaned)
+- global energy consumption choropleth map (simple).py (program for global energy consumption map) 
+- test.csv (sample data from energy-cons.csv for testing)
+
+*data cleaning process:*
 1. delete rows without iso-3 country codes to get rid of regional and continent data.
 2. delete rows that have data earlier than 1980 or later than 2015.
 3. delete all data from years that aren't a decade marker or half a decade.
