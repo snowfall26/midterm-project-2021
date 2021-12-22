@@ -19,7 +19,7 @@ df = pd.read_csv(r'https://raw.githubusercontent.com/snowfall26/midterm-project-
 dfFinal = pd.read_csv(r'https://raw.githubusercontent.com/snowfall26/midterm-project-2021/main/energy-cons-cleaned.csv')
 
 # clean data
-def worldData_clean(df):
+def energyCons_clean(df):
 
         # checks all cells in the 'iso_alpha' column and removes the rows that do not have an iso-3 code
         df.dropna(subset = ['iso_alpha'], inplace = True)
@@ -59,5 +59,5 @@ def energyCons_map(dfFinal):
     fig.show()
 
 # functions
-worldData_clean(df)
+energyCons_clean(df)
 energyCons_map(dfFinal)
