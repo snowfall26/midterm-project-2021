@@ -11,6 +11,7 @@ due date: january 3, 2022
 - energy-cons.csv (original data for global energy consumption; not cleaned)
 - global energy consumption choropleth map (simple).py (program for global energy consumption map) 
 - test.csv (sample data from energy-cons.csv for testing)
+- world-population.csv (original data for global population; not cleaned)
 
 **data cleaning process:**
 1. delete rows without iso-3 country codes to get rid of regional and continent data.
