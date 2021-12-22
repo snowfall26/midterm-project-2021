@@ -14,14 +14,7 @@ pip install plotly
 import plotly.express as px
 import pandas as pd
 
-'''
-from urllib.request import urlopen
-import json
-with urlopen(r'https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
-    countries = json.load(response) 
-'''
-
-# dataframes
+# data
 df = pd.read_csv(r'https://raw.githubusercontent.com/snowfall26/midterm-project-2021/main/energy-cons.csv')
 dfFinal = pd.read_csv(r'https://raw.githubusercontent.com/snowfall26/midterm-project-2021/main/energy-cons-cleaned.csv')
 
@@ -69,5 +62,3 @@ def energyCons_map(dfFinal):
 # functions
 worldData_clean(df)
 energyCons_map(dfFinal)
-
-
