@@ -54,7 +54,6 @@ def energyCons_map(dfFinal):
                   color_continuous_scale = px.colors.sequential.Magma,
                   range_color = (0, 35000),
                   title = 'Global Energy Consumption (1980-2015)',
-                  height = 600, 
     )
 
     fig.show()
