@@ -3,6 +3,7 @@
 INTRO TO CS MIDTERM PROJECT: ANIMATED CHOROPLETH MAP
 
 by: yi-an liao
+
 due date: january 3, 2022
 
 data cleaning process:
