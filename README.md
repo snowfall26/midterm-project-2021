@@ -10,7 +10,7 @@ due date: january 3, 2022
 - energy-cons-cleaned.csv (cleaned data for global energy consumption)
 - energy-cons.csv (original data for global energy consumption; not cleaned)
 - test.csv (sample data from energy-cons.csv for testing)
-- choropleth map FINAL.py (final program)
+- choropleth-map-FINAL.py (final program)
 
 **data cleaning process:**
 1. delete rows without iso-3 country codes to get rid of regional and continent data.
