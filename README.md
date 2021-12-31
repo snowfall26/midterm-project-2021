@@ -7,10 +7,8 @@ by: yi-an liao
 due date: january 3, 2022
 
 **installed libraries:**
-
-!pip install plotly
-
-!pip install pandas
+- plotly
+- pandas
 
 **files used:**
 - choropleth map FINAL.py (final program)
