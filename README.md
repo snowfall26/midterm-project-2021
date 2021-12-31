@@ -6,14 +6,18 @@ by: yi-an liao
 
 due date: january 3, 2022
 
-**files included:**
-- energy-cons-cleaned.csv (cleaned data for global energy consumption)
-- energy-cons.csv (original data for global energy consumption; not cleaned)
+**installed libraries:**
+!pip install plotly
+!pip install pandas
+
+**files used:**
+- choropleth map FINAL.py (final program)
+- energy-cons-cleaned.csv (cleaned data)
+- energy-cons.csv (original data; not cleaned)
 - test.csv (sample data from energy-cons.csv for testing)
-- choropleth-map-FINAL.py (final program)
 
 **data cleaning process:**
-1. delete rows without iso-3 country codes to get rid of regional and continent data.
+1. delete rows without iso3 country codes to get rid of regional and continent data.
 2. delete rows that have data earlier than 1980 or later than 2015.
 3. delete all data from years that aren't a decade marker or half a decade.
 4. reset index starting from 0 afterwards because why not and it looks better.
