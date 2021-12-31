@@ -6,8 +6,6 @@ installed libraries:
 pip install plotly
 pip install pandas
 
-overview (edited):
-
 **the files used are located on my personal github account.
 """
 
@@ -26,7 +24,6 @@ def energyCons_clean(df):
         df.dropna(subset = ['iso_alpha'], inplace = True)
         
         # filters dataframe by year (1980-2015)
-        # ! increase year span to 1965-2015
         df = df[(df.year >= 1980) & (df.year <= 2015)]  
 
         # checks if year is a mutiple of 5
@@ -48,8 +45,8 @@ def energyCons_map(dfFinal):
                   hover_name='country',
                   animation_frame = 'year',
                   color_continuous_scale = px.colors.sequential.amp,
-                  range_color = (0, 35000), # ! adjust color map
-                  title = 'Global Energy Consumption (1980-2015)', # ! 1965-2015
+                  range_color = (0, 35000), 
+                  title = 'Global Energy Consumption (1980-2015)', 
     )
 
     fig.show()
